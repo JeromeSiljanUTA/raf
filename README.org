@@ -2,4 +2,6 @@
 
 This repository has a collection of programs written for my Casio fx-9750GIII.
 
+* Footnotes
+
 [fn:1] My calculator's name is raf, after Rafael from [[https://www.imdb.com/title/tt1659175/][Transformers Prime]]. 
